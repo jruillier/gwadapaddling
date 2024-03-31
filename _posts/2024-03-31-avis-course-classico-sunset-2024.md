@@ -1,6 +1,8 @@
-# Classico Sunset 2024
-
-## CLASSICO:
+---
+layout: post
+title:  "Classico Sunset 2024"
+tags: SunsetPaddling, Classico2024, SainteAnne, Gosier
+---
 
 **Heure du brefing :** 9h30 à la plage des Galbas ( Sainte-Anne)
 
