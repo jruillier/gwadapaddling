@@ -19,3 +19,15 @@ share-links-active:
   facebook: true
 
 date_format: "%-d %B %Y"
+
+navbar-col: "#023047"
+navbar-text-col: "#FFB703"
+navbar-border-col: "#8ECAE6"
+page-col: "#FFFFFF"
+text-col: "#023047"
+link-col: "#FB8500"
+hover-col: "#219EBC"
+footer-col: "#FB8500"
+footer-text-col: "#023047"
+footer-link-col: "#FFB703"
+footer-hover-col: "#8ECAE6"
