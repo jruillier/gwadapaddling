@@ -20,7 +20,7 @@ share-links-active:
   twitter: true
   facebook: true
 
-date_format: "%-d %m %Y"
+date_format: "%-d/%m/%Y"
 
 navbar-col: "#023047"
 navbar-text-col: "#FFB703"
