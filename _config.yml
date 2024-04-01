@@ -7,7 +7,7 @@ plugins:
 - jekyll-sitemap
 
 title: Gwada Paddling
-description: Actu des compétitions des sports de pagaie en Guadeloupe
+subtitle: Actu des compétitions des sports de pagaie en Guadeloupe
 
 post_search: true
 
