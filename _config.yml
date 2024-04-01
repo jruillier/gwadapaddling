@@ -6,6 +6,8 @@ plugins:
 - jekyll-paginate
 - jekyll-sitemap
 
+language: fr
+
 title: Gwada Paddling
 subtitle: Actu des compétitions des sports de pagaie en Guadeloupe
 
