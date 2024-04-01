@@ -6,3 +6,16 @@ plugins:
 
 title: Gwada Paddling
 description: Actu des compétitions des sports de pagaie en Guadeloupe
+
+post_search: true
+
+social-network-links:
+  rss: true
+  
+rss-description: Actu des compétitions des sports de pagaie en Guadeloupe
+
+share-links-active:
+  twitter: true
+  facebook: true
+
+date_format: "%-d %B %Y"
