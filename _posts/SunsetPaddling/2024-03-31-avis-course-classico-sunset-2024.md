@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Classico Sunset 2024"
-tags: AvisDeCourse SunsetPadddling Classico2024 SainteAnne Gosier
+title:  "Annonce du Classico Sunset 2024"
+tags: AvisDeCourse ClubSunsetPadddling CompetClassico2024 VilleSainteAnne VilleGosier
 ---
 
 Avis de course pour le 21 avril 2024
