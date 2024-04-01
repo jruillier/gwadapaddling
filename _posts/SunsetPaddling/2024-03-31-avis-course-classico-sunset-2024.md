@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Classico Sunset 2024"
-tags: AvisDeCourse Classico2024 SainteAnne Gosier
+tags: AvisDeCourse SunsetPadddling Classico2024 SainteAnne Gosier
 ---
+
+Avis de course pour le 21 avril 2024
 
 **Heure du brefing :** 9h30 à la plage des Galbas ( Sainte-Anne)
 
