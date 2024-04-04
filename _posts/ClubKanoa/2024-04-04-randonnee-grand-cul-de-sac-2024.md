@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annonce de la randonnée du Grand Cul-de-sac marin 2024
-tags: Randonnee ClubKanoa RandonneegrandCulDeSac2024 VilleSainteRose
+tags: Randonnee ClubKanoa RandonneeGrandCulDeSac2024 VilleSainteRose
 ---
 
 Le Dimanche 14 avril 2024
@@ -16,4 +16,4 @@ Déjeuner les pieds dans l'eau à la Biche
 
 ATTENTION : le parcours de 14km, sera effectué en trois étapes de 45mn environ, et nécessite, outre la pratique du kayak, de bonnes aptitudes physiques
 
-[Télécharger l'annonce de la randonnée Grand Cul-de-sac marin 2024](/assets/Kanoa/2024-randonnee-grand-cul-de-sac.jpeg))
+[Télécharger l'annonce de la randonnée Grand Cul-de-sac marin 2024](/assets/Kanoa/2024-randonnee-grand-cul-de-sac.jpeg)
