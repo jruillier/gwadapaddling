@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Randonnée Grand Cul-de-sac marin
+title: Annonce de la randonnée du Grand Cul-de-sac marin 2024
 tags: Randonnee ClubKanoa RandonneegrandCulDeSac2024 VilleSainteRose
 ---
 
