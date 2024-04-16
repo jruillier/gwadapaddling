@@ -21,6 +21,8 @@ share-links-active:
   twitter: true
   facebook: true
 
+google_analytics: "G-T83QGL71MQ"
+
 date_format: "%-d/%m/%Y"
 
 navbar-col: "#023047"
