@@ -6,4 +6,4 @@ tags: RappelDeCourse ClubSunsetPadddling CompetClassico2024 VilleSainteAnne Vill
 
 Dernières inscriptions jeudi.
 
-[L'avis de course]({% link 2024-03-31-avis-course-classico-sunset-2024.md %})
+[L'avis de course]({% link _posts/SunsetPaddling/2024-03-31-avis-course-classico-sunset-2024.md %})
