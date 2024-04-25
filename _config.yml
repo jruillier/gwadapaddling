@@ -1,10 +1,9 @@
-
 #remote_theme: pages-themes/leap-day@v0.2.0
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
-- jekyll-remote-theme 
-- jekyll-paginate
-- jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
 
 language: fr
 
@@ -14,7 +13,7 @@ post_search: true
 
 social-network-links:
   rss: true
-  
+
 rss-description: Actu des compétitions des sports de pagaie en Guadeloupe
 
 share-links-active:
@@ -36,3 +35,14 @@ footer-col: "#FB8500"
 footer-text-col: "#023047"
 footer-link-col: "#FFB703"
 footer-hover-col: "#8ECAE6"
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
