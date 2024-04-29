@@ -4,11 +4,7 @@ title:  "Annonce du Galantour 2024"
 tags: AvisDeCourse ClubBaseNautiqueAaeaCismag ClubBaseNautiqueGrandBourg CompetGalantour2024 VilleCapesterreMG VilleGrandBourgMG
 ---
 
-La base nautique AAEA CISMAG ainsi que la base nautique de Grand Bourg , vous invitent au:
-
-## DATES
-
-Samedi 11 mai et dimanche 12 mai 2024
+La base nautique AAEA CISMAG ainsi que la base nautique de Grand Bourg , vous invitent au Galantour les samedi 11 mai et dimanche 12 mai 2024
 
 ## CATEGORIES OUVERTES
 
