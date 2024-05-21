@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Résultats du Galantour 2024"
-tags: ResultatsDeCourse ClubBaseNautiqueAaeaCismag ClubBaseNautiqueGrandBourg CompetGalantour2024 VilleCapesterreMG VilleGrandBourgMG
+tags: resultats-de-course club-base-nautique-aaea-cismag club-base-nautique-grand-bourg compet-galantour-2024 ville-capesterre-mg ville-grand-bourg-mg
 ---
 
 32 participants, merci et bravo à tous les organisateurs.

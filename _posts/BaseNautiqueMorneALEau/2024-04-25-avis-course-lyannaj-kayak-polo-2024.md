@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annonce du Lyannaj Kayak Polo 2024"
-tags: AvisDeCourse ClubBaseNautiqueMorneALEau CompetLyannajKayakPolo2024 VilleMorneALEau
+tags: avis-de-course club-base-nautique-morne-a-l-eau compet-lyannaj-kayak-polo-2024 ville-morne-a-l-eau
 ---
 
 1ère édition du Lyannaj Kayak Polo de Morne-à-L’eau le dimanche 28 avril 2024 à 9h00.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dimanche, c'est le Classico Sunset 2024"
-tags: RappelDeCourse ClubSunsetPadddling CompetClassico2024 VilleSainteAnne VilleGosier
+tags: rappel-de-course club-sunset-padddling compet-classico-2024 ville-sainte-anne ville-gosier
 ---
 
 Dernières inscriptions jeudi.

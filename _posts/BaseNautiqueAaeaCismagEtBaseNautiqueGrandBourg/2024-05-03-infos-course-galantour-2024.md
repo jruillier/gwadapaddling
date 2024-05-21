@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Infos importantes Galantour 2024"
-tags: InfosDeCourse ClubBaseNautiqueAaeaCismag ClubBaseNautiqueGrandBourg CompetGalantour2024 VilleCapesterreMG VilleGrandBourgMG
+tags: infos-de-course club-base-nautique-aaea-cismag club-base-nautique-grand-bourg compet-galantour-2024 ville-capesterre-mg ville-grand-bourg-mg
 ---
 
 ATTENTION information importante pour la Galantour !!

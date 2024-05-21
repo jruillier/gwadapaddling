@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Annonce de la randonnée du Grand Cul-de-sac marin 2024
-tags: Randonnee ClubKanoa RandonneeGrandCulDeSac2024 VilleSainteRose
+tags: randonnee club-kanoa randonnee-grand-cul-de-sac-2024 ville-sainte-rose
 ---
 
 Le Dimanche 14 avril 2024
