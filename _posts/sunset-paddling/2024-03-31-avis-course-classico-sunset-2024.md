@@ -26,4 +26,4 @@ précisant le nom de votre club, votre nom, la catégorie et votre numéro de li
 
 **Matériel obligatoire :** leash, gilet, téléphone dans une pochette étanche, ravitaillement embarqué
 
-[Télécharger l'avis de course Classico 2024](/assets/SunsetPaddling/2024-classico-sunset-avis.pdf)
+[Télécharger l'avis de course Classico 2024](/assets/sunset-paddling/2024-classico-sunset-avis.pdf)

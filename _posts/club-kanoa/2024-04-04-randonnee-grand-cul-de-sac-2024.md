@@ -22,4 +22,4 @@ Le rdv est à 09h00 à la base nautique de Sainte-Rose, afin de permettre à nos
 
 La date limite de réservation est fixée au jeudi 11 avril 20h00, afin de pouvoir communique le nombre de repas à notre traiteur.😊
 
-[Télécharger l'annonce de la randonnée Grand Cul-de-sac marin 2024](/assets/Kanoa/2024-randonnee-grand-cul-de-sac.jpeg)
+[Télécharger l'annonce de la randonnée Grand Cul-de-sac marin 2024](/assets/club-kanoa/2024-randonnee-grand-cul-de-sac.jpeg)

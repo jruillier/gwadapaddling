@@ -40,5 +40,5 @@ Le vainqueur marquera 4 points, le perdant 1 et en cas de match nul 2 points pou
 * 9h25 : Annonce du début du tournoi pour les U15 (déroulement avec 4 équipes)
 
 
-* [Affiche Lyannaj Kayak Polo 2024](/assets/BaseNautiqueMorneALEau/2024-lyannaj-kayak-polo-affiche.jpeg)
-* [Afis de course Lyannaj Kayak Polo 2024](/assets/BaseNautiqueMorneALEau/2024-lyannaj-kayak-polo-avis.pdf)
+* [Affiche Lyannaj Kayak Polo 2024](/assets/base-nautique-morne-a-l-eau/2024-lyannaj-kayak-polo-affiche.jpeg)
+* [Afis de course Lyannaj Kayak Polo 2024](/assets/base-nautique-morne-a-l-eau/2024-lyannaj-kayak-polo-avis.pdf)

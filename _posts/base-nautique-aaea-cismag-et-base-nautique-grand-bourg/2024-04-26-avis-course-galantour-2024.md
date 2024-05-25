@@ -109,4 +109,4 @@ La ligne de départ sera matérialisée par des bouées et
 des bateaux de sécurité. L’arrivée sera matérialisée par des bouées devant la base nautique AAEA CISMAG
 de St Louis.
 
-[Avis de course du Galantour 2024](/assets/BaseNautiqueAaeaCismagEtBaseNautiqueGrandBourg/2024-galantour-avis.pdf)
+[Avis de course du Galantour 2024](/assets/base-nautique-aaea-cismag-et-base-nautique-grand-bourg/2024-galantour-avis.pdf)

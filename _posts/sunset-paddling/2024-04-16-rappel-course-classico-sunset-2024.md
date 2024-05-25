@@ -6,4 +6,4 @@ tags: rappel-de-course club-sunset-padddling compet-classico-2024 ville-sainte-a
 
 Dernières inscriptions jeudi.
 
-[L'avis de course]({% link _posts/SunsetPaddling/2024-03-31-avis-course-classico-sunset-2024.md %})
+[L'avis de course]({% link _posts/sunset-paddling/2024-03-31-avis-course-classico-sunset-2024.md %})

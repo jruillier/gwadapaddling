@@ -6,6 +6,6 @@ tags: resultats-de-course club-sunset-padddling compet-classico-2024 ville-saint
 
 Les résultats du Classico Sunset 2024.
 
-[Première page des résultats](/assets/SunsetPaddling/2024-classico-sunset-resultats-1.jpeg)
+[Première page des résultats](/assets/sunset-paddling/2024-classico-sunset-resultats-1.jpeg)
 
-[Deuxième page des résultats](/assets/SunsetPaddling/2024-classico-sunset-resultats-2.jpeg)
+[Deuxième page des résultats](/assets/sunset-paddling/2024-classico-sunset-resultats-2.jpeg)
