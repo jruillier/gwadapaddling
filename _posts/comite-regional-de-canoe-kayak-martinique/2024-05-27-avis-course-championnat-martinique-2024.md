@@ -6,6 +6,8 @@ tags: avis-de-course comite-regional-canoe-kayak-martinique compet-championnat-m
 
 🔥 VENEZ VOUS MESURER SUR LA COURSE MYTHIQUE DU TOMBOLO 🔥, le dimanche 23 Juin 2024
 
+![Championnat de la Martinique](/assets/comite-regional-de-canoe-kayak-martinique/2024-image-championnat-de-la-martinique.jpg)
+
 Nous avons le plaisir de vous inviter au Championnat de la Martinique 2024, qui aura lieu sur la côte atlantique 🌊 de la Martinique (Trinité, Sainte-Marie), le dimanche 23 Juin 2024. Cet événement annuel est l'un des plus importants de notre calendrier et réunit les meilleurs compétiteurs de la Martinique et de la Guadeloupe avec une arrivée mythique au Tombolo 🏝️
 
 Le championnat comprendra 2 parcours dans plusieurs catégories, notamment les Surfskis, pirogues et Stand up paddle.
