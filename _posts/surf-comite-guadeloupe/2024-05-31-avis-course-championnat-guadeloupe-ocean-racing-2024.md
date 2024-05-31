@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Annonce du Championnat de Guadeloupe d'Ocean Racing 2024"
-tags: avis-de-course surf-comite-guadeloupe compet-championnat-guadeloupe-ocean-racing-2024 ville-sainte-rose ville-deshaies
+tags: avis-de-course surf-comite-guadeloupe compet-championnat-guadeloupe-ocean-racing-2024 commune-sainte-rose commune-deshaies
 thumbnail-img: /assets/surf-comite-guadeloupe/2024-thumbnail-championnat-guadeloupe-ocean-racing.jpg
 cover-img: /assets/surf-comite-guadeloupe/2024-cover-championnat-guadeloupe-ocean-racing.jpg
 ---
